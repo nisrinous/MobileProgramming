@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">Hello Worldous</string>
-    <string name="hello_world">Hello, Android!</string>
+    <string name="app_name">Stopwatch</string>
 </resources>
